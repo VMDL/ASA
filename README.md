@@ -1,4 +1,4 @@
-# ASA
+# Autonomous Software Agents Assignment
 Smart-Home - Project Autonomous Software Agents 2021-2022 
 
 ## Run
