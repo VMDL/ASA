@@ -27,8 +27,9 @@ Under helper package it is defined the way how agents communicate.
 Under `tmp`, there are the Planning domains and problems generated during the execution of the scenario.
 
 More specifically this is the folder structure:
-    
-  📂 src
+
+ 📂 src
+ 
       📂 bdi
       |  📄 Agent.js
       |  📄 Beliefset.js
@@ -125,6 +126,7 @@ More specifically this is the folder structure:
           |    📄 keypress.js
 
   📁 tmp
+  
       |    📄 domain-garbage-agent.js
       |    📄 problem-garbage-agent.js
       |    📄 domain-gym-agent.js
