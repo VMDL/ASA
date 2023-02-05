@@ -127,18 +127,18 @@ More specifically this is the folder structure:
 
   📁 tmp
   
-      |    📄 domain-garbage-agent.js
-      |    📄 problem-garbage-agent.js
-      |    📄 domain-gym-agent.js
-      |    📄 problem-gym-agent.js
-      |    📄 domain-music-agent.js
-      |    📄 problem-music-agent.js
-      |    📄 domain-refill-agent.js
-      |    📄 problem-refill-agent.js
-      |    📄 domain-vacuum-agent.js
-      |    📄 problem-vacuum-agent.js
-      |    📄 domain-washing_machine_agent.js
-      |    📄 problem-washing_machine_agent.js
+      |    📄 domain-garbage-agent.pddl
+      |    📄 problem-garbage-agent.pddl
+      |    📄 domain-gym-agent.pddl
+      |    📄 problem-gym-agent.pddl
+      |    📄 domain-music-agent.pddl
+      |    📄 problem-music-agent.pddl
+      |    📄 domain-refill-agent.pddl
+      |    📄 problem-refill-agent.pddl
+      |    📄 domain-vacuum-agent.pddl
+      |    📄 problem-vacuum-agent.pddl
+      |    📄 domain-washing_machine_agent.pddl
+      |    📄 problem-washing_machine_agent.pddl
 
 
 
